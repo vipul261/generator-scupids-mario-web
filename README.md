@@ -1,5 +1,5 @@
 # generator-scupids-mario-web [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
-> A generator for scaffolding a webapp
+> A one page Web app generator with Marionatte, RequireJS, Lodash
 
 ## Installation
 
@@ -31,3 +31,4 @@ Apache-2.0 © [Vipul](vipul261.github.io)
 [travis-url]: https://travis-ci.org/vipul261/generator-scupids-mario-web
 [daviddm-image]: https://david-dm.org/vipul261/generator-scupids-mario-web.svg?theme=shields.io
 [daviddm-url]: https://david-dm.org/vipul261/generator-scupids-mario-web
+=======

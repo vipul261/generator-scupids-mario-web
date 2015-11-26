@@ -13,7 +13,7 @@ npm install -g generator-scupids-mario-web
 Then generate your new project:
 
 ```bash
-yo generator-scupids-mario-web
+yo scupids-mario-web
 ```
 
 ## Getting To Know Yeoman

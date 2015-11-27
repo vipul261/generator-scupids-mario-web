@@ -32,3 +32,11 @@ Apache-2.0 © [Vipul](vipul261.github.io)
 [daviddm-image]: https://david-dm.org/vipul261/generator-scupids-mario-web.svg?theme=shields.io
 [daviddm-url]: https://david-dm.org/vipul261/generator-scupids-mario-web
 =======
+
+## Todo:
+1. Add support for less/sass
+2. Add App related info in basic template
+3. Allow customization for the initial template for sections in navigation
+4. Add an optional responsive framework(Bootstrap, Foundation)
+5. Add Gulp/Grunt based tasks
+6. Add support of watchers for auto compilation and other automation tasks.
